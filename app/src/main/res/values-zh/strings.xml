@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">格仔舖管理系統</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">電郵</string>
+    <string name="prompt_password">密碼 (以新電郵註冊帳號請略過此欄)</string>
+    <string name="action_sign_in">登入／註冊</string>
+    <string name="action_sign_in_short">登入</string>
+    <string name="error_invalid_email">請輸入有效電郵地址</string>
+    <string name="error_invalid_password">請輸入有效密碼</string>
+    <string name="error_incorrect_password">密碼不正確</string>
+    <string name="error_field_required">必須填寫</string>
+    <string name="permission_rationale">"本應用程式需要存取聯絡權限以使用自動填寫電郵地址功能"</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="create_new_account">開啟新帳戶</string>
+    <string name="register">註冊</string>
+    <string name="login_success">登入成功</string>
+    <string name="password">密碼</string>
+    <string name="set_a_password">設定新密碼</string>
+    <string name="confirm_password">再次輸入相同密碼</string>
+    <string name="welkom">Welkom</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">設定</string>
+    <string name="error_unknown">發生不明錯誤</string>
+    <string name="confirm_exit">關閉應用程式？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="google_plus_login">Google+ 登入</string>
+    <string name="facebook_login">Facebook 登入</string>
+    <string name="logout">登出</string>
+    <string name="confirm_logout">登出並且關閉應用程式？</string>
+    <string name="overview">概覽</string>
+    <string name="products">貨品</string>
+    <string name="analysis">分析</string>
+    <string name="my_grids">我的格仔</string>
+    <string name="data_analysis">數據分析</string>
+    <string name="num_products">件貨品</string>
+    <string name="all_products">貨品清單</string>
+    <string name="product_list">貨品清單</string>
+    <string name="general_info">一般資料</string>
+    <string name="sales_record">銷售紀錄</string>
+    <string name="price">售價</string>
+    <string name="qty">數量</string>
+    <string name="desc">描述</string>
+    <string name="no_desc">未有描述</string>
+    <string name="no_product">未有貨品</string>
+    <string name="belong_to_grid">所屬格仔</string>
+    <string name="piece">件</string>
+    <string name="id">編號</string>
+    <string name="sold">售出</string>
+    <string name="total_price">總金額</string>
+    <string name="sales_total_qty">總銷售量</string>
+    <string name="sales_total_price">總銷售額</string>
+    <string name="product_store">存貨</string>
+    <string name="invoices">發票</string>
+    <string name="no_record">未有紀錄</string>
+    <string name="date">日期</string>
+    <string name="HKD">HKD</string>
+    <string name="time">時間</string>
+    <string name="product_name">貨品名稱</string>
+    <string name="unit_price">單價</string>
+    <string name="total">總數</string>
+</resources>

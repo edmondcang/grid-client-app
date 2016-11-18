@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_grids"
+            android:icon="@drawable/ic_menu_grids"
+            android:title="@string/my_grids" />
+        <item
+            android:id="@+id/nav_overview"
+            android:icon="@drawable/ic_menu_bars"
+            android:title="@string/data_analysis" />
+        <item
+            android:id="@+id/nav_product_list"
+            android:icon="@drawable/ic_menu_barcode"
+            android:title="@string/product_list" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

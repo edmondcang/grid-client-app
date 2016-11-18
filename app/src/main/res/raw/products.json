@@ -1,0 +1,9 @@
+[
+  { "id": 1, "grid_id": 4, "name": "Cheap cheap watch", "price": 258.50, "qty": 80, "desc": "Fair quality" },
+  { "id": 2, "grid_id": 4, "name": "Fake watch", "price": 20.00, "qty": 50, "desc": "Fake but good quality" },
+  { "id": 3, "grid_id": 4, "name": "Swiss watch A", "price": 4500.00, "qty": 20, "desc": "Made in Switzerland" },
+  { "id": 4, "grid_id": 4, "name": "Swiss watch B", "price": 3859.00, "qty": 25, "desc": "Made in Switzerland" },
+  { "id": 5, "grid_id": 4, "name": "Second hand watch", "price": 100.00, "qty": 10, "desc": "Second hand, maybe of bad quality" },
+  { "id": 6, "grid_id": 4, "name": "Rolex", "price": 258700.00, "qty": 4, "desc": "You know what it is" },
+  { "id": 7, "grid_id": 4, "name": "Seiko Auto", "price": 2300.00, "qty": 20, "desc": "Made in Japan" }
+]

@@ -1,0 +1,23 @@
+[
+  { "id": 50, "invoice_id": 1, "product_id": 7, "qty": 1 },
+  { "id": 51, "invoice_id": 1, "product_id": 1, "qty": 4 },
+  { "id": 52, "invoice_id": 2, "product_id": 3, "qty": 1 },
+  { "id": 53, "invoice_id": 3, "product_id": 3, "qty": 1 },
+  { "id": 54, "invoice_id": 4, "product_id": 2, "qty": 10 },
+  { "id": 55, "invoice_id": 4, "product_id": 1, "qty": 10 },
+  { "id": 56, "invoice_id": 5, "product_id": 6, "qty": 1 },
+  { "id": 57, "invoice_id": 6, "product_id": 4, "qty": 1 },
+  { "id": 58, "invoice_id": 7, "product_id": 5, "qty": 1 },
+  { "id": 59, "invoice_id": 7, "product_id": 4, "qty": 1 },
+  { "id": 60, "invoice_id": 8, "product_id": 1, "qty": 1 },
+  { "id": 61, "invoice_id": 8, "product_id": 2, "qty": 1 },
+  { "id": 62, "invoice_id": 8, "product_id": 3, "qty": 1 },
+  { "id": 63, "invoice_id": 8, "product_id": 4, "qty": 1 },
+  { "id": 64, "invoice_id": 9, "product_id": 1, "qty": 1 },
+  { "id": 65, "invoice_id": 9, "product_id": 2, "qty": 1 },
+  { "id": 66, "invoice_id": 9, "product_id": 3, "qty": 1 },
+  { "id": 67, "invoice_id": 9, "product_id": 4, "qty": 1 },
+  { "id": 68, "invoice_id": 9, "product_id": 5, "qty": 1 },
+  { "id": 69, "invoice_id": 9, "product_id": 6, "qty": 1 },
+  { "id": 70, "invoice_id": 9, "product_id": 7, "qty": 1 }
+]

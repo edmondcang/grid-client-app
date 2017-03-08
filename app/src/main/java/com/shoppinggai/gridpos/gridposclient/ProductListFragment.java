@@ -58,7 +58,7 @@ public class ProductListFragment extends Fragment {
 
 //                Log.d("keyEvent", String.valueOf(keyEvent));
 
-                if (keyCode == keyEvent.KEYCODE_BACK && keyEvent.getAction() == KeyEvent.ACTION_DOWN) {
+                if (keyCode == KeyEvent.KEYCODE_BACK && keyEvent.getAction() == KeyEvent.ACTION_DOWN) {
 
                     fragmentManager.popBackStack();
 

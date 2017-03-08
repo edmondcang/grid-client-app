@@ -1,5 +1,6 @@
 [
   { "id": 1, "name": "Fun Toys 1000", "email": "ft1k@spg.com", "password": "spg1234" },
   { "id": 2, "name": "Kool Fashion", "email": "koolf@spg.com", "password": "spg1234" },
-  { "id": 3, "name": "強哥雜貨店", "email": "bk@spg.com", "password": "spg1234" }
+  { "id": 3, "name": "強哥雜貨店", "email": "bk@b.c", "password": "asdfasdf" },
+  { "id": 4, "name": "Admin", "email": "a@b.c", "password": "spg1234" }
 ]

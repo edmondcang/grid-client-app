@@ -1,6 +1,7 @@
 package com.shoppinggai.gridpos.gridposclient;
 
 import android.content.Context;
+import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,14 +10,14 @@ import android.widget.TextView;
 
 class RowListAdapter extends ArrayAdapter<String> {
 
-    Context context;
+    private Context context;
 
-    Integer[] ids;
-    String[] titles;
-    String[] uppers;
-    String[] lowers;
+    private Integer[] ids;
+    private String[] titles;
+    private String[] uppers;
+    private String[] lowers;
 
-    class ViewHolder {
+    private class ViewHolder {
 
         TextView row_id;
         TextView title;
@@ -31,7 +32,7 @@ class RowListAdapter extends ArrayAdapter<String> {
         }
     }
 
-    public RowListAdapter(Context context, Integer[] ids, String[] titles, String[] uppers, String[] lowers) {
+    RowListAdapter(Context context, Integer[] ids, String[] titles, String[] uppers, String[] lowers) {
 
         super(context, R.layout.list_row, R.id.title, titles);
 
@@ -43,8 +44,9 @@ class RowListAdapter extends ArrayAdapter<String> {
         this.lowers = lowers;
     }
 
+    @NonNull
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(int position, View convertView, @NonNull ViewGroup parent) {
 
         View row = convertView;
         ViewHolder holder;
